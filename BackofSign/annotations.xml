@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>2056121</id>
+      <name>BackofSign</name>
+      <size>57</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-02-27 21:43:44.167659+00:00</created>
+      <updated>2026-03-12 21:58:37.169829+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>56</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3679281</id>
+          <start>0</start>
+          <stop>56</stop>
+          <url>https://app.cvat.ai/api/tasks/2056121/dataset/export/api/jobs/3679718</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>th594</username>
+        <email>lltthh1997@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>WWD Vehicle</name>
+          <color>#d78d2b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Backofsign</name>
+          <color>#0a1a85</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Doubleyellowlane</name>
+          <color>#34743b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-03-13 21:19:45.336940+00:00</dumped>
+  </meta>
+  <image id="0" name="1.png" width="1047" height="681">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="636.62" ytl="425.23" xbr="1065.02" ybr="446.80" rotation="23.90" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="379.10" ytl="275.71" xbr="459.30" ybr="399.90" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="589.49" ytl="334.56" xbr="637.62" ybr="368.43" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="10.png" width="1055" height="683">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="642.47" ytl="422.81" xbr="1070.87" ybr="444.38" rotation="23.90" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="383.70" ytl="274.63" xbr="463.90" ybr="398.83" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="592.25" ytl="326.07" xbr="640.38" ybr="359.95" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="11.png" width="1050" height="679">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="581.42" ytl="306.05" xbr="629.56" ybr="339.92" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="638.98" ytl="417.69" xbr="1067.38" ybr="443.52" rotation="23.90" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="382.69" ytl="270.29" xbr="462.89" ybr="394.49" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="12.png" width="1049" height="682">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="587.91" ytl="320.14" xbr="636.05" ybr="354.02" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="380.85" ytl="274.44" xbr="461.05" ybr="398.63" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="642.61" ytl="421.57" xbr="1071.01" ybr="443.15" rotation="23.90" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="13.png" width="1054" height="683">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="586.31" ytl="316.41" xbr="634.44" ybr="350.28" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="620.43" ytl="423.72" xbr="1068.18" ybr="445.29" rotation="23.90" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="383.70" ytl="273.69" xbr="472.80" ybr="397.10" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="14.png" width="1053" height="684">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="641.95" ytl="422.84" xbr="1070.35" ybr="444.41" rotation="22.60" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="383.60" ytl="276.05" xbr="471.55" ybr="391.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="595.01" ytl="328.39" xbr="643.14" ybr="362.26" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="15.png" width="1055" height="685">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="612.86" ytl="419.31" xbr="1078.70" ybr="440.88" rotation="23.10" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="380.90" ytl="273.58" xbr="471.19" ybr="395.60" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="584.03" ytl="307.70" xbr="632.16" ybr="341.57" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="16.png" width="1053" height="681">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="587.37" ytl="321.46" xbr="635.51" ybr="355.33" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="378.60" ytl="273.79" xbr="464.78" ybr="395.70" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="615.38" ytl="421.21" xbr="1075.96" ybr="442.78" rotation="20.70" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="17.png" width="1050" height="685">
+    <box label="Backofsign" source="manual" occluded="0" xtl="377.70" ytl="273.58" xbr="462.03" ybr="392.60" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="612.32" ytl="421.12" xbr="1075.45" ybr="442.69" rotation="22.80" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="580.92" ytl="314.96" xbr="629.06" ybr="348.84" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="18.png" width="1046" height="683">
+    <box label="Backofsign" source="manual" occluded="0" xtl="383.90" ytl="272.48" xbr="473.64" ybr="397.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="585.94" ytl="320.03" xbr="634.07" ybr="353.91" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="619.58" ytl="418.86" xbr="1071.82" ybr="440.43" rotation="22.20" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="19.png" width="1051" height="681">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="550.96" ytl="405.46" xbr="1078.36" ybr="427.04" rotation="23.90" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="596.01" ytl="334.70" xbr="644.14" ybr="368.58" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="382.50" ytl="275.00" xbr="473.41" ybr="395.70" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="2.png" width="1052" height="682">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="642.54" ytl="423.78" xbr="1070.94" ybr="450.11" rotation="22.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="594.84" ytl="323.76" xbr="642.97" ybr="364.90" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="381.70" ytl="273.74" xbr="473.16" ybr="394.90" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="20.png" width="1049" height="679">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="621.67" ytl="419.17" xbr="1069.02" ybr="440.74" rotation="21.70" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="580.32" ytl="310.86" xbr="628.46" ybr="344.73" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="380.50" ytl="271.49" xbr="466.70" ybr="395.40" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="21.png" width="1051" height="679">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="638.04" ytl="429.21" xbr="1076.89" ybr="450.79" rotation="20.90" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="382.70" ytl="270.29" xbr="468.90" ybr="395.40" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="595.73" ytl="330.07" xbr="643.86" ybr="363.94" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="22.png" width="1655" height="673">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="1046.00" ytl="416.35" xbr="1181.40" ybr="531.30" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="166.30" ytl="265.54" xbr="343.50" ybr="327.30" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="1021.64" ytl="253.31" xbr="1069.60" ybr="290.90" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="23.png" width="1696" height="677">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="1076.71" ytl="431.95" xbr="1212.11" ybr="546.90" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="1063.10" ytl="258.84" xbr="1100.89" ybr="294.80" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="207.10" ytl="269.56" xbr="378.90" ybr="337.60" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="24.png" width="1658" height="671">
+    <box label="Backofsign" source="manual" occluded="0" xtl="1024.20" ytl="249.15" xbr="1066.07" ybr="287.40" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="799.67" ytl="379.58" xbr="935.07" ybr="494.53" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="169.81" ytl="265.39" xbr="345.50" ybr="325.30" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="25.png" width="1691" height="672">
+    <box label="Backofsign" source="manual" occluded="0" xtl="202.32" ytl="258.31" xbr="374.10" ybr="330.70" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="1049.20" ytl="254.12" xbr="1104.76" ybr="288.60" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="861.49" ytl="393.82" xbr="959.40" ybr="471.30" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="26.png" width="1527" height="906">
+    <box label="Backofsign" source="manual" occluded="0" xtl="721.20" ytl="504.57" xbr="772.20" ybr="554.30" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="1386.10" ytl="501.37" xbr="1435.51" ybr="551.30" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="948.20" ytl="689.93" xbr="1115.60" ybr="824.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="1124.72" ytl="788.68" xbr="1553.12" ybr="829.09" rotation="26.50" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="174.90" ytl="352.37" xbr="369.40" ybr="543.60" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="27.png" width="1533" height="900">
+    <box label="Backofsign" source="manual" occluded="0" xtl="716.40" ytl="499.40" xbr="764.17" ybr="546.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="1129.30" ytl="793.87" xbr="1557.70" ybr="834.28" rotation="26.50" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="967.03" ytl="699.30" xbr="1072.20" ybr="771.30" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="168.37" ytl="340.54" xbr="371.60" ybr="547.00" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="1384.80" ytl="502.59" xbr="1431.05" ybr="557.60" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="28.png" width="1523" height="901">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="701.02" ytl="673.85" xbr="836.42" ybr="788.81" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="1381.50" ytl="494.42" xbr="1439.50" ybr="555.70" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="172.38" ytl="345.16" xbr="376.40" ybr="545.00" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="1137.69" ytl="790.79" xbr="1566.09" ybr="831.20" rotation="26.50" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="719.34" ytl="488.05" xbr="774.20" ybr="548.30" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="29.png" width="1493" height="899">
+    <box label="Backofsign" source="manual" occluded="0" xtl="680.53" ytl="484.43" xbr="737.80" ybr="549.00" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="1347.50" ytl="490.79" xbr="1400.80" ybr="556.90" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="654.21" ytl="662.69" xbr="789.61" ybr="777.64" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="1087.99" ytl="784.22" xbr="1516.39" ybr="824.63" rotation="26.50" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="139.38" ytl="340.70" xbr="332.40" ybr="543.50" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="3.png" width="1050" height="684">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="645.04" ytl="429.21" xbr="1073.44" ybr="453.40" rotation="21.60" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="378.60" ytl="275.24" xbr="464.10" ybr="404.90" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="587.98" ytl="316.88" xbr="632.70" ybr="352.00" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="30.png" width="1823" height="1192">
+    <box label="Backofsign" source="manual" occluded="0" xtl="638.91" ytl="436.43" xbr="696.30" ybr="514.20" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="-38.05" ytl="721.88" xbr="1403.68" ybr="745.61" rotation="341.60" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="510.82" ytl="618.09" xbr="715.01" ybr="733.04" rotation="342.60" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="31.png" width="1830" height="1190">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="504.35" ytl="610.65" xbr="694.50" ybr="725.61" rotation="342.60" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="-45.70" ytl="704.66" xbr="1396.03" ybr="728.40" rotation="341.60" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="633.34" ytl="432.41" xbr="694.80" ybr="502.00" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="32.png" width="1630" height="1036">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="693.91" ytl="769.21" xbr="802.48" ybr="857.66" rotation="358.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="860.43" ytl="887.68" xbr="1506.02" ybr="911.87" rotation="26.70" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="442.50" ytl="593.55" xbr="541.00" ybr="694.60" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="33.png" width="1484" height="1043">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="856.40" ytl="899.05" xbr="1501.99" ybr="923.24" rotation="26.70" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="439.07" ytl="597.48" xbr="538.80" ybr="705.70" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="687.89" ytl="763.63" xbr="796.46" ybr="859.50" rotation="358.10" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="34.png" width="1517" height="1036">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="856.22" ytl="884.69" xbr="1501.82" ybr="908.88" rotation="26.70" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="685.59" ytl="722.47" xbr="794.15" ybr="844.09" rotation="358.10" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="438.01" ytl="589.87" xbr="541.40" ybr="705.40" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="35.png" width="1510" height="1041">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="864.88" ytl="893.62" xbr="1510.47" ybr="917.81" rotation="26.70" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="695.25" ytl="769.44" xbr="803.82" ybr="857.89" rotation="358.10" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="441.49" ytl="590.56" xbr="543.00" ybr="699.10" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="36.png" width="1523" height="1042">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="888.78" ytl="806.16" xbr="997.35" ybr="894.61" rotation="358.10" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="435.76" ytl="594.02" xbr="545.50" ybr="706.90" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="859.82" ytl="891.73" xbr="1505.41" ybr="915.92" rotation="26.70" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="37.png" width="1509" height="1046">
+    <box label="Backofsign" source="manual" occluded="0" xtl="436.95" ytl="589.39" xbr="538.50" ybr="710.90" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="891.36" ytl="818.68" xbr="999.93" ybr="885.11" rotation="358.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="854.43" ytl="895.19" xbr="1500.03" ybr="919.38" rotation="26.70" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="38.png" width="1697" height="962">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="635.29" ytl="699.62" xbr="769.19" ybr="793.98" rotation="358.10" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="184.95" ytl="523.32" xbr="268.50" ybr="596.00" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="39.png" width="1699" height="968">
+    <box label="Backofsign" source="manual" occluded="0" xtl="181.18" ytl="520.38" xbr="269.00" ybr="615.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="662.60" ytl="725.23" xbr="771.17" ybr="813.67" rotation="358.10" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="4.png" width="1056" height="696">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="647.39" ytl="425.45" xbr="1075.79" ybr="449.64" rotation="21.60" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="587.45" ytl="310.69" xbr="632.33" ybr="351.47" rotation="358.10" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="389.06" ytl="275.86" xbr="468.80" ybr="396.60" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="40.png" width="1684" height="953">
+    <box label="Backofsign" source="manual" occluded="0" xtl="180.90" ytl="516.66" xbr="261.90" ybr="605.50" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="637.98" ytl="715.19" xbr="784.91" ybr="816.76" rotation="358.10" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="41.png" width="1696" height="964">
+    <box label="Backofsign" source="manual" occluded="0" xtl="178.01" ytl="519.52" xbr="263.30" ybr="608.80" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="386.32" ytl="723.27" xbr="523.89" ybr="811.72" rotation="358.10" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="42.png" width="1693" height="965">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="392.23" ytl="711.38" xbr="522.65" ybr="809.13" rotation="358.10" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="181.83" ytl="515.90" xbr="261.20" ybr="605.00" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="43.png" width="1127" height="1046">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="591.21" ytl="790.91" xbr="699.78" ybr="890.39" rotation="3.90" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="153.40" ytl="513.04" xbr="231.96" ybr="805.80" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="221.89" ytl="850.24" xbr="666.52" ybr="958.75" rotation="306.70" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="44.png" width="1135" height="1042">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="595.10" ytl="776.68" xbr="703.67" ybr="914.90" rotation="0.40" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="217.18" ytl="831.14" xbr="661.80" ybr="939.65" rotation="306.70" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="166.19" ytl="517.89" xbr="244.74" ybr="810.65" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="45.png" width="1130" height="1019">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="218.40" ytl="828.72" xbr="663.03" ybr="937.23" rotation="306.70" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="287.32" ytl="777.48" xbr="395.89" ybr="865.92" rotation="358.10" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="156.37" ytl="495.12" xbr="234.92" ybr="787.88" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="46.png" width="2072" height="1156">
+    <box label="Backofsign" source="manual" occluded="0" xtl="177.02" ytl="649.85" xbr="285.20" ybr="760.30" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="542.25" ytl="856.03" xbr="665.10" ybr="944.47" rotation="358.10" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="47.png" width="2065" height="1154">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="552.77" ytl="856.31" xbr="687.89" ybr="944.75" rotation="358.10" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="174.89" ytl="646.43" xbr="289.10" ybr="759.30" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="48.png" width="2065" height="1159">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="1060.20" ytl="860.06" xbr="1168.89" ybr="941.44" rotation="358.10" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="171.41" ytl="655.04" xbr="289.70" ybr="761.90" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="49.png" width="2062" height="1158">
+    <box label="Backofsign" source="manual" occluded="0" xtl="173.68" ytl="653.31" xbr="284.90" ybr="763.40" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="1051.56" ytl="833.25" xbr="1186.68" ybr="921.70" rotation="358.10" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="5.png" width="1050" height="687">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="644.94" ytl="427.69" xbr="1073.34" ybr="451.88" rotation="21.60" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="372.83" ytl="273.87" xbr="467.20" ybr="396.80" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="593.83" ytl="333.88" xbr="639.67" ybr="364.70" rotation="358.10" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="50.png" width="1619" height="1051">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="475.29" ytl="671.60" xbr="593.70" ybr="760.04" rotation="358.10" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="196.54" ytl="552.77" xbr="324.20" ybr="666.80" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="51.png" width="1613" height="1018">
+    <box label="Backofsign" source="manual" occluded="0" xtl="197.25" ytl="529.35" xbr="322.30" ybr="623.50" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="475.27" ytl="646.63" xbr="581.81" ybr="735.07" rotation="358.10" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="52.png" width="1608" height="1048">
+    <box label="Backofsign" source="manual" occluded="0" xtl="198.16" ytl="557.37" xbr="320.30" ybr="648.90" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="869.94" ytl="677.62" xbr="1005.06" ybr="766.07" rotation="358.10" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="53.png" width="1605" height="1038">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="886.30" ytl="674.95" xbr="988.67" ybr="754.95" rotation="358.10" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="200.91" ytl="551.03" xbr="328.60" ybr="651.80" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="54.png" width="1684" height="930">
+    <box label="Backofsign" source="manual" occluded="0" xtl="63.55" ytl="341.11" xbr="268.60" ybr="500.60" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="1288.80" ytl="472.70" xbr="1417.40" ybr="584.30" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="275.71" ytl="410.18" xbr="404.40" ybr="516.20" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="685.68" ytl="642.39" xbr="820.80" ybr="730.84" rotation="358.10" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="55.png" width="1695" height="939">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="706.11" ytl="638.79" xbr="808.01" ybr="727.24" rotation="358.10" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="57.52" ytl="346.51" xbr="270.20" ybr="507.70" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="1288.46" ytl="484.34" xbr="1415.50" ybr="588.00" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="278.85" ytl="416.26" xbr="407.50" ybr="530.50" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="56.png" width="1529" height="1049">
+    <box label="Backofsign" source="manual" occluded="0" xtl="973.42" ytl="712.34" xbr="1049.40" ybr="769.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="499.83" ytl="788.90" xbr="644.39" ybr="929.22" rotation="3.20" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="216.58" ytl="641.84" xbr="296.20" ybr="695.00" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="57.png" width="1533" height="1043">
+    <box label="Backofsign" source="manual" occluded="0" xtl="217.73" ytl="652.52" xbr="303.80" ybr="700.70" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="968.43" ytl="724.46" xbr="1055.40" ybr="773.60" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="507.85" ytl="814.99" xbr="642.97" ybr="921.98" rotation="4.10" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="6.png" width="1050" height="685">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="583.74" ytl="320.62" xbr="632.27" ybr="351.65" rotation="358.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="645.18" ytl="427.62" xbr="1073.58" ybr="451.81" rotation="21.60" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="373.44" ytl="271.69" xbr="460.50" ybr="402.90" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="7.png" width="1048" height="684">
+    <box label="Backofsign" source="manual" occluded="0" xtl="379.85" ytl="275.42" xbr="458.50" ybr="400.00" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="640.06" ytl="426.37" xbr="1068.46" ybr="450.56" rotation="21.60" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="586.24" ytl="316.04" xbr="623.93" ybr="350.43" rotation="358.10" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="8.png" width="1049" height="682">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="585.64" ytl="322.02" xbr="635.92" ybr="349.72" rotation="358.10" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="382.45" ytl="266.45" xbr="461.80" ybr="399.00" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="617.54" ytl="419.22" xbr="1073.05" ybr="443.41" rotation="21.60" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="9.png" width="1052" height="680">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="607.22" ytl="417.96" xbr="1082.26" ybr="442.15" rotation="21.60" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="583.72" ytl="316.29" xbr="624.68" ybr="341.48" rotation="358.10" z_order="0">
+    </box>
+    <box label="Backofsign" source="manual" occluded="0" xtl="375.21" ytl="272.58" xbr="459.90" ybr="401.20" z_order="0">
+    </box>
+  </image>
+</annotations>

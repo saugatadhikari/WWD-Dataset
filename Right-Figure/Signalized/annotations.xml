@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>2292559</id>
+      <name>Signal</name>
+      <size>25</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-05-29 22:56:30.300028+00:00</created>
+      <updated>2026-06-09 15:28:55.744105+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>24</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4057457</id>
+          <start>0</start>
+          <stop>24</stop>
+          <url>https://app.cvat.ai/api/tasks/2292559/dataset/export/api/jobs/4059204</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>lltthh1997@qq.com</username>
+        <email>lltthh1997@qq.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Siganl</name>
+          <color>#6d1b2d</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Right_Way_Vehicle</name>
+          <color>#80937f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Double_Yellow_Line</name>
+          <color>#7ea7ff</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-06-09 15:31:58.620215+00:00</dumped>
+  </meta>
+  <image id="0" name="1.png" width="1551" height="917">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="160.13" ytl="322.49" xbr="218.54" ybr="356.09" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="259.35" ytl="173.66" xbr="282.56" ybr="226.47" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="390.22" ytl="184.84" xbr="423.00" ybr="237.65" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="260.93" ytl="344.63" xbr="319.34" ybr="361.38" rotation="125.50" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="10.png" width="1151" height="730">
+    <box label="Siganl" source="manual" occluded="0" xtl="497.16" ytl="478.69" xbr="522.64" ybr="515.00" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="530.37" ytl="600.77" xbr="599.60" ybr="643.90" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="361.28" ytl="612.91" xbr="491.76" ybr="660.98" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="701.70" ytl="603.95" xbr="829.60" ybr="676.40" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="521.79" ytl="702.75" xbr="606.52" ybr="728.52" rotation="37.40" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="11.png" width="975" height="769">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="426.77" ytl="614.66" xbr="447.60" ybr="632.10" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="527.12" ytl="501.95" xbr="545.23" ybr="539.53" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="626.07" ytl="559.64" xbr="644.19" ybr="597.22" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="175.81" ytl="554.27" xbr="200.00" ybr="591.85" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="347.28" ytl="622.74" xbr="402.97" ybr="675.08" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="364.91" ytl="734.78" xbr="376.57" ybr="777.72" rotation="28.00" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="503.27" ytl="630.10" xbr="558.96" ybr="682.44" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="432.72" ytl="631.31" xbr="444.39" ybr="674.26" rotation="22.20" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="12.png" width="857" height="542">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="464.21" ytl="420.45" xbr="508.20" ybr="451.70" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="373.87" ytl="398.70" xbr="392.30" ybr="415.70" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="444.58" ytl="301.04" xbr="460.66" ybr="327.53" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="201.01" ytl="357.31" xbr="217.09" ybr="383.80" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="561.87" ytl="355.89" xbr="577.95" ybr="382.38" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="492.58" ytl="436.53" xbr="566.40" ybr="496.60" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="407.49" ytl="405.32" xbr="430.19" ybr="425.63" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="241.69" ytl="415.97" xbr="336.75" ybr="497.79" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="344.93" ytl="454.41" xbr="359.68" ybr="548.03" rotation="30.90" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="13.png" width="823" height="742">
+    <box label="Siganl" source="manual" occluded="0" xtl="5.90" ytl="444.20" xbr="28.47" ybr="485.60" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="319.43" ytl="552.71" xbr="341.23" ybr="747.89" rotation="25.20" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="409.23" ytl="511.82" xbr="434.50" ybr="528.00" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="102.33" ytl="517.00" xbr="156.70" ybr="566.20" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="189.74" ytl="518.95" xbr="224.06" ybr="555.20" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="536.79" ytl="565.56" xbr="672.80" ybr="663.30" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="370.07" ytl="563.64" xbr="517.66" ybr="724.20" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="339.36" ytl="462.32" xbr="355.44" ybr="488.81" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="593.82" ytl="445.49" xbr="614.40" ybr="483.00" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="534.25" ytl="463.62" xbr="550.33" ybr="490.10" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="444.25" ytl="417.00" xbr="460.33" ybr="443.49" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="14.png" width="890" height="710">
+    <box label="Siganl" source="manual" occluded="0" xtl="657.81" ytl="495.95" xbr="676.40" ybr="530.64" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="177.06" ytl="506.47" xbr="195.64" ybr="541.17" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="410.62" ytl="580.20" xbr="508.50" ybr="678.09" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="287.34" ytl="574.00" xbr="385.23" ybr="671.89" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="522.76" ytl="563.18" xbr="639.18" ybr="609.62" rotation="1.40" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="205.93" ytl="606.87" xbr="215.52" ybr="760.38" rotation="61.00" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="15.png" width="659" height="433">
+    <box label="Siganl" source="manual" occluded="0" xtl="204.59" ytl="177.62" xbr="217.10" ybr="202.10" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="284.69" ytl="219.93" xbr="299.90" ybr="246.70" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="416.16" ytl="292.67" xbr="542.70" ybr="358.42" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="69.38" ytl="274.19" xbr="109.43" ybr="306.13" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="273.54" ytl="285.45" xbr="381.34" ybr="351.21" rotation="1.40" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="313.31" ytl="331.63" xbr="335.11" ybr="526.81" rotation="123.50" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="138.24" ytl="272.30" xbr="176.51" ybr="294.82" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="239.21" ytl="274.82" xbr="284.16" ybr="305.87" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="-5.44" ytl="294.54" xbr="60.64" ybr="371.61" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="129.39" ytl="292.81" xbr="237.18" ybr="388.82" rotation="1.40" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="16.png" width="945" height="906">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="478.62" ytl="762.94" xbr="523.30" ybr="807.81" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="550.57" ytl="766.16" xbr="599.98" ybr="811.04" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="486.69" ytl="738.21" xbr="512.85" ybr="770.16" rotation="1.40" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="508.27" ytl="693.78" xbr="521.30" ybr="713.50" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="398.35" ytl="800.11" xbr="420.16" ybr="995.29" rotation="25.20" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="17.png" width="1887" height="1185">
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="1045.32" ytl="475.75" xbr="1063.85" ybr="670.94" rotation="291.00" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="1367.46" ytl="306.30" xbr="1386.05" ybr="358.60" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="953.22" ytl="513.80" xbr="969.91" ybr="529.51" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="1018.59" ytl="511.66" xbr="1068.01" ybr="556.53" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="1104.61" ytl="518.25" xbr="1184.60" ybr="588.20" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="1602.86" ytl="479.92" xbr="1960.29" ybr="727.50" rotation="8.70" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="1150.06" ytl="566.89" xbr="1507.50" ybr="772.77" rotation="1.40" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="1168.93" ytl="308.37" xbr="1205.10" ybr="359.60" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="18.png" width="967" height="652">
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="490.36" ytl="518.93" xbr="504.73" ybr="714.12" rotation="312.80" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="368.12" ytl="523.51" xbr="420.24" ybr="561.45" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="461.78" ytl="525.41" xbr="530.29" ybr="580.60" rotation="1.40" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="446.33" ytl="461.98" xbr="456.40" ybr="480.20" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="503.79" ytl="484.74" xbr="514.40" ybr="500.70" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="325.69" ytl="522.70" xbr="357.45" ybr="540.65" rotation="1.40" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="19.png" width="906" height="877">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="309.63" ytl="552.43" xbr="340.76" ybr="577.15" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="445.87" ytl="597.13" xbr="683.96" ybr="757.47" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="330.50" ytl="558.72" xbr="382.62" ybr="596.66" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="235.90" ytl="565.69" xbr="288.03" ybr="611.90" rotation="1.40" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="393.00" ytl="556.90" xbr="414.80" ybr="906.70" rotation="325.90" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="328.54" ytl="476.25" xbr="337.90" ybr="499.50" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="2.png" width="1392" height="864">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="368.46" ytl="481.82" xbr="406.04" ybr="505.79" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="271.79" ytl="483.47" xbr="350.41" ybr="522.30" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="26.67" ytl="485.97" xbr="157.59" ybr="533.34" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="1116.20" ytl="504.11" xbr="1250.49" ybr="542.94" rotation="1.40" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="552.88" ytl="395.43" xbr="565.40" ybr="418.10" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="497.85" ytl="387.89" xbr="516.43" ybr="422.58" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="423.70" ytl="492.10" xbr="469.18" ybr="534.76" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="513.96" ytl="475.66" xbr="543.90" ybr="494.57" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="483.87" ytl="472.68" xbr="513.82" ybr="491.59" rotation="1.40" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="666.01" ytl="574.19" xbr="701.18" ybr="889.86" rotation="318.00" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="934.23" ytl="496.88" xbr="1032.30" ybr="561.63" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="462.76" ytl="474.19" xbr="492.71" ybr="493.10" rotation="1.40" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="20.png" width="1991" height="1148">
+    <box label="Siganl" source="manual" occluded="0" xtl="814.91" ytl="260.64" xbr="852.50" ybr="322.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="955.01" ytl="476.39" xbr="984.94" ybr="501.32" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="1043.29" ytl="460.55" xbr="1295.34" ybr="593.29" rotation="1.40" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="1024.27" ytl="258.63" xbr="1042.86" ybr="315.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="506.14" ytl="513.84" xbr="748.50" ybr="704.90" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="741.61" ytl="503.03" xbr="819.67" ybr="571.87" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="757.12" ytl="439.91" xbr="835.18" ybr="508.74" rotation="1.40" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="816.10" ytl="442.04" xbr="837.90" ybr="734.12" rotation="41.10" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="21.png" width="1909" height="1210">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="706.71" ytl="670.43" xbr="877.09" ybr="804.59" rotation="1.40" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="1273.58" ytl="370.68" xbr="1296.40" ybr="432.80" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="1101.47" ytl="378.07" xbr="1139.10" ybr="442.30" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="1207.14" ytl="745.29" xbr="1228.94" ybr="883.62" rotation="320.50" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="1006.07" ytl="672.54" xbr="1162.68" ybr="806.69" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="1224.62" ytl="658.98" xbr="1395.00" ybr="793.14" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="999.80" ytl="631.34" xbr="1081.32" ybr="715.92" rotation="1.40" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="22.png" width="1033" height="676">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="552.30" ytl="554.31" xbr="619.91" ybr="614.24" rotation="1.40" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="554.55" ytl="503.61" xbr="561.23" ybr="512.07" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="201.69" ytl="546.73" xbr="325.57" ybr="606.66" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="474.74" ytl="546.73" xbr="516.40" ybr="582.30" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="189.29" ytl="592.76" xbr="403.22" ybr="681.44" rotation="1.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="404.24" ytl="555.68" xbr="487.20" ybr="615.61" rotation="1.40" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="598.22" ytl="519.65" xbr="605.35" ybr="529.46" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="222.89" ytl="458.59" xbr="244.69" ybr="793.94" rotation="69.80" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="23.png" width="1084" height="612">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="481.49" ytl="523.57" xbr="549.10" ybr="583.50" rotation="1.40" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="618.42" ytl="468.35" xbr="626.30" ybr="482.80" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="335.97" ytl="521.42" xbr="403.58" ybr="581.35" rotation="1.40" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="341.11" ytl="451.44" xbr="347.17" ybr="720.93" rotation="72.30" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="119.12" ytl="530.60" xbr="244.62" ybr="597.30" rotation="356.40" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="583.17" ytl="464.62" xbr="589.50" ybr="476.90" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="24.png" width="1189" height="501">
+    <box label="Siganl" source="manual" occluded="0" xtl="618.60" ytl="130.24" xbr="630.10" ybr="146.90" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="70.82" ytl="205.54" xbr="262.31" ybr="296.64" rotation="346.50" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="747.65" ytl="221.68" xbr="871.06" ybr="292.73" rotation="7.30" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="834.20" ytl="264.20" xbr="1179.59" ybr="410.24" rotation="15.80" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="418.90" ytl="175.79" xbr="436.23" ybr="537.86" rotation="37.20" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="25.png" width="1003" height="472">
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="294.58" ytl="263.38" xbr="312.17" ybr="492.60" rotation="32.60" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="620.79" ytl="298.23" xbr="813.50" ybr="412.04" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="459.42" ytl="237.35" xbr="468.80" ybr="245.70" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="378.59" ytl="260.61" xbr="398.60" ybr="281.60" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="414.38" ytl="260.83" xbr="434.38" ybr="281.82" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="535.37" ytl="270.06" xbr="591.40" ybr="307.70" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="4.png" width="1472" height="901">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="725.20" ytl="435.92" xbr="797.90" ybr="483.90" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="738.86" ytl="383.08" xbr="760.66" ybr="675.16" rotation="301.20" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="1023.50" ytl="162.70" xbr="1050.00" ybr="232.80" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="864.36" ytl="455.58" xbr="1021.20" ybr="519.30" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="633.21" ytl="418.63" xbr="668.20" ybr="453.30" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="740.47" ytl="178.42" xbr="767.70" ybr="273.70" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="877.27" ytl="172.92" xbr="899.00" ybr="244.60" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="5.png" width="1492" height="921">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="533.45" ytl="389.98" xbr="550.30" ybr="404.00" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="649.18" ytl="387.57" xbr="670.80" ybr="407.20" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="604.98" ytl="388.37" xbr="642.70" ybr="418.50" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="321.30" ytl="416.50" xbr="442.60" ybr="533.40" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="618.68" ytl="388.84" xbr="634.09" ybr="517.43" rotation="323.80" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="658.35" ytl="189.19" xbr="714.70" ybr="264.10" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="916.33" ytl="144.19" xbr="945.40" ybr="227.90" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="6.png" width="1598" height="1090">
+    <box label="Siganl" source="manual" occluded="0" xtl="880.54" ytl="308.42" xbr="899.13" ybr="357.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="931.60" ytl="533.87" xbr="1215.30" ybr="707.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="720.40" ytl="500.58" xbr="782.50" ybr="558.03" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="674.75" ytl="477.75" xbr="708.30" ybr="514.30" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="651.00" ytl="481.60" xbr="673.10" ybr="505.70" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="683.04" ytl="529.38" xbr="704.84" ybr="610.33" rotation="41.10" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="738.82" ytl="305.56" xbr="757.41" ybr="357.40" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="611.37" ytl="293.20" xbr="629.96" ybr="356.40" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="7.png" width="2054" height="1122">
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="742.15" ytl="695.53" xbr="763.95" ybr="1075.55" rotation="62.10" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="883.77" ytl="742.30" xbr="947.98" ybr="786.01" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="802.51" ytl="747.19" xbr="866.72" ybr="790.91" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="703.63" ytl="754.04" xbr="795.20" ybr="811.50" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="76.44" ytl="843.87" xbr="479.94" ybr="968.88" rotation="340.90" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="328.62" ytl="837.90" xbr="670.26" ybr="980.04" rotation="340.90" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="947.71" ytl="466.80" xbr="974.10" ybr="542.60" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="785.18" ytl="480.50" xbr="809.60" ybr="549.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="544.27" ytl="764.21" xbr="699.78" ybr="864.84" rotation="335.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="957.20" ytl="754.04" xbr="1045.90" ybr="830.10" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="8.png" width="1886" height="1187">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="613.13" ytl="659.68" xbr="805.73" ybr="768.70" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="1088.55" ytl="158.23" xbr="1155.80" ybr="299.60" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="554.09" ytl="241.09" xbr="614.11" ybr="363.80" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="919.70" ytl="659.68" xbr="983.91" ybr="703.40" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="341.76" ytl="270.09" xbr="401.78" ybr="392.81" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="802.68" ytl="208.45" xbr="862.70" ybr="331.16" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="9.png" width="1048" height="808">
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="458.98" ytl="619.26" xbr="480.78" ybr="795.87" rotation="340.20" z_order="0">
+    </box>
+    <box label="Siganl" source="manual" occluded="0" xtl="477.42" ytl="468.50" xbr="503.60" ybr="501.00" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="392.13" ytl="579.21" xbr="424.60" ybr="606.00" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="469.29" ytl="591.87" xbr="533.49" ybr="635.58" z_order="0">
+    </box>
+  </image>
+</annotations>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>2292556</id>
+      <name>Pavement</name>
+      <size>13</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-05-29 22:51:48.704978+00:00</created>
+      <updated>2026-06-05 22:58:59.757713+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>12</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4057456</id>
+          <start>0</start>
+          <stop>12</stop>
+          <url>https://app.cvat.ai/api/tasks/2292556/dataset/export/api/jobs/4059203</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>lltthh1997@qq.com</username>
+        <email>lltthh1997@qq.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Right_Way_Vehicle</name>
+          <color>#80937f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Double_Yellow_Line</name>
+          <color>#7ea7ff</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Pavement_Marker</name>
+          <color>#e09960</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-06-05 23:01:04.245381+00:00</dumped>
+  </meta>
+  <image id="0" name="1.png" width="2439" height="865">
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="1114.51" ytl="417.60" xbr="1151.53" ybr="744.47" rotation="62.50" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="1297.00" ytl="481.86" xbr="1335.18" ybr="514.43" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="924.17" ytl="480.22" xbr="1033.10" ybr="530.80" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="598.50" ytl="521.77" xbr="942.14" ybr="689.10" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="380.69" ytl="487.48" xbr="704.09" ybr="605.38" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="1043.21" ytl="536.88" xbr="1110.59" ybr="569.45" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="1151.00" ytl="473.49" xbr="1189.18" ybr="506.05" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="1198.17" ytl="476.85" xbr="1236.35" ybr="509.42" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="1372.22" ytl="482.47" xbr="1410.40" ybr="515.03" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="10.png" width="1084" height="493">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="471.30" ytl="257.66" xbr="651.70" ybr="378.10" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="533.90" ytl="165.32" xbr="723.30" ybr="334.20" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="307.16" ytl="300.92" xbr="394.00" ybr="332.36" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="425.60" ytl="238.19" xbr="499.70" ybr="306.70" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="166.56" ytl="235.67" xbr="203.57" ybr="562.53" rotation="36.70" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="11.png" width="1096" height="775">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="503.70" ytl="330.04" xbr="543.60" ybr="357.76" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="413.76" ytl="316.51" xbr="448.25" ybr="340.85" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="532.10" ytl="352.35" xbr="668.03" ybr="480.17" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="534.58" ytl="469.90" xbr="656.76" ybr="679.69" rotation="4.10" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="199.45" ytl="381.78" xbr="270.27" ybr="709.28" rotation="59.20" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="12.png" width="1793" height="1170">
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="162.39" ytl="941.45" xbr="939.13" ybr="967.27" rotation="152.10" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="822.00" ytl="720.31" xbr="865.90" ybr="766.26" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="966.97" ytl="717.25" xbr="1008.83" ybr="763.19" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="519.80" ytl="725.42" xbr="730.12" ybr="863.25" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="1006.79" ytl="1009.24" xbr="1170.14" ybr="1092.96" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="13.png" width="1251" height="868">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="670.27" ytl="720.55" xbr="697.11" ybr="751.97" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="626.41" ytl="731.68" xbr="667.00" ybr="762.44" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="519.71" ytl="731.68" xbr="555.71" ybr="762.44" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="596.30" ytl="710.73" xbr="624.45" ybr="741.50" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="432.64" ytl="735.60" xbr="495.49" ybr="782.08" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="702.35" ytl="730.37" xbr="756.68" ybr="778.81" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="750.79" ytl="759.82" xbr="847.02" ybr="836.42" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="367.84" ytl="745.42" xbr="426.75" ybr="781.43" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="608.08" ytl="759.17" xbr="684.02" ybr="820.70" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="543.73" ytl="804.12" xbr="574.50" ybr="869.21" rotation="22.00" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="458.83" ytl="812.85" xbr="535.42" ybr="833.80" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="557.02" ytl="728.40" xbr="578.63" ybr="747.39" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="2.png" width="919" height="813">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="525.59" ytl="532.36" xbr="718.20" ybr="630.90" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="250.65" ytl="541.52" xbr="315.64" ybr="573.41" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="332.52" ytl="489.10" xbr="385.30" ybr="529.60" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="375.12" ytl="535.39" xbr="582.97" ybr="686.84" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="411.45" ytl="495.26" xbr="464.23" ybr="535.76" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="447.59" ytl="505.72" xbr="548.90" ybr="546.22" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="343.86" ytl="537.23" xbr="408.86" ybr="569.12" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="3.png" width="845" height="726">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="212.49" ytl="434.27" xbr="254.94" ybr="468.50" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="471.41" ytl="517.16" xbr="583.27" ybr="559.83" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="648.79" ytl="524.12" xbr="741.70" ybr="568.00" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="405.71" ytl="438.72" xbr="461.46" ybr="475.46" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="329.06" ytl="440.61" xbr="398.70" ybr="492.60" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="249.23" ytl="429.84" xbr="304.98" ybr="478.60" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="111.13" ytl="443.14" xbr="203.63" ybr="507.13" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="302.45" ytl="427.30" xbr="330.30" ybr="450.70" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="477.30" ytl="427.30" xbr="505.20" ybr="447.60" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="456.56" ytl="461.32" xbr="485.67" ybr="747.87" rotation="335.40" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="4.png" width="816" height="515">
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="118.13" ytl="360.85" xbr="268.23" ybr="408.48" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="325.75" ytl="270.97" xbr="373.39" ybr="283.11" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="391.81" ytl="223.79" xbr="444.84" ybr="281.76" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="340.58" ytl="227.38" xbr="367.99" ybr="250.30" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="169.77" ytl="154.66" xbr="181.69" ybr="508.12" rotation="66.70" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="5.png" width="1036" height="576">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="448.62" ytl="375.44" xbr="469.73" ybr="397.06" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="456.16" ytl="424.70" xbr="515.47" ybr="438.77" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="465.71" ytl="413.64" xbr="513.96" ybr="423.19" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="359.87" ytl="377.92" xbr="384.42" ybr="609.96" rotation="44.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="21.90" ytl="387.51" xbr="292.81" ybr="566.44" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="427.51" ytl="377.45" xbr="454.66" ybr="400.07" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="514.97" ytl="377.45" xbr="539.60" ybr="395.55" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="6.png" width="887" height="536">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="306.24" ytl="217.94" xbr="332.43" ybr="235.71" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="442.46" ytl="211.46" xbr="476.21" ybr="583.12" rotation="135.50" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="539.63" ytl="222.61" xbr="616.34" ybr="265.64" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="453.10" ytl="215.10" xbr="544.31" ybr="267.05" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="385.75" ytl="211.86" xbr="435.33" ybr="245.06" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="346.00" ytl="214.66" xbr="376.40" ybr="235.71" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="260.87" ytl="215.13" xbr="287.53" ybr="236.65" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="217.38" ytl="217.00" xbr="244.04" ybr="237.11" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="134.59" ytl="205.31" xbr="208.02" ybr="238.52" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="0.00" ytl="241.32" xbr="135.53" ybr="331.59" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="401.19" ytl="274.53" xbr="490.99" ybr="305.87" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="7.png" width="705" height="605">
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="89.85" ytl="462.20" xbr="202.30" ybr="522.38" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="262.67" ytl="332.58" xbr="287.21" ybr="652.71" rotation="42.70" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="395.52" ytl="359.25" xbr="424.03" ybr="384.06" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="331.11" ytl="355.56" xbr="354.87" ybr="372.98" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="290.46" ytl="349.22" xbr="329.00" ybr="382.48" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="197.55" ytl="358.20" xbr="264.60" ybr="405.18" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="8.png" width="868" height="693">
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="280.38" ytl="323.19" xbr="308.80" ybr="348.59" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="265.26" ytl="349.80" xbr="343.87" ybr="421.16" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="428.53" ytl="404.22" xbr="557.34" ybr="451.39" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="467.99" ytl="311.11" xbr="492.53" ybr="747.20" rotation="320.10" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="291.87" ytl="314.73" xbr="331.78" ybr="337.71" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="9.png" width="757" height="541">
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="275.33" ytl="317.96" xbr="295.16" ybr="327.40" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="167.70" ytl="350.06" xbr="217.27" ybr="368.94" rotation="338.00" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="41.18" ytl="355.26" xbr="98.78" ybr="367.06" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="325.37" ytl="302.38" xbr="345.20" ybr="316.07" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="4.36" ytl="303.80" xbr="69.98" ybr="341.57" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="273.44" ytl="296.25" xbr="297.99" ybr="316.55" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="237.09" ytl="302.38" xbr="259.28" ybr="320.32" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="320.18" ytl="320.79" xbr="331.04" ybr="327.40" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="152.59" ytl="300.97" xbr="206.41" ybr="330.24" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="519.40" ytl="358.09" xbr="569.44" ybr="376.97" z_order="0">
+    </box>
+    <box label="Pavement_Marker" source="manual" occluded="0" xtl="602.48" ytl="400.10" xbr="757.00" ybr="455.34" z_order="0">
+    </box>
+    <box label="Right_Way_Vehicle" source="manual" occluded="0" xtl="476.44" ytl="312.77" xbr="529.78" ybr="350.53" z_order="0">
+    </box>
+    <box label="Double_Yellow_Line" source="manual" occluded="0" xtl="152.84" ytl="174.84" xbr="159.50" ybr="496.78" rotation="82.30" z_order="0">
+    </box>
+  </image>
+</annotations>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>2092749</id>
+      <name>Pavement</name>
+      <size>32</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-03-12 22:28:31.950723+00:00</created>
+      <updated>2026-03-12 22:49:46.689292+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>31</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3725649</id>
+          <start>0</start>
+          <stop>31</stop>
+          <url>https://app.cvat.ai/api/tasks/2092749/dataset/export/api/jobs/3726347</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>th594</username>
+        <email>lltthh1997@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Pavement</name>
+          <color>#733380</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>WWD Vehicle</name>
+          <color>#d78d2b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-03-13 21:16:25.810165+00:00</dumped>
+  </meta>
+  <image id="0" name="1.png" width="1356" height="830">
+    <box label="Pavement" source="manual" occluded="0" xtl="105.10" ytl="530.85" xbr="330.37" ybr="592.41" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="374.60" ytl="500.43" xbr="599.80" ybr="729.30" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="10.png" width="1441" height="737">
+    <box label="Pavement" source="manual" occluded="0" xtl="913.32" ytl="334.41" xbr="1013.49" ybr="365.12" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="810.01" ytl="472.15" xbr="1089.90" ybr="581.70" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="450.46" ytl="300.41" xbr="538.30" ybr="342.60" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="11.png" width="1442" height="737">
+    <box label="Pavement" source="manual" occluded="0" xtl="907.44" ytl="340.32" xbr="1007.60" ybr="371.03" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="455.78" ytl="292.55" xbr="554.00" ybr="339.20" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="807.72" ytl="470.27" xbr="1096.12" ybr="593.00" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="12.png" width="1445" height="730">
+    <box label="Pavement" source="manual" occluded="0" xtl="907.76" ytl="337.12" xbr="1011.90" ybr="367.83" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="450.25" ytl="294.87" xbr="548.47" ybr="341.52" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="798.81" ytl="467.78" xbr="1087.21" ybr="590.51" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="13.png" width="1839" height="1139">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="742.67" ytl="711.66" xbr="864.70" ybr="841.80" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="877.15" ytl="659.00" xbr="956.88" ybr="689.71" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="999.42" ytl="790.90" xbr="1287.82" ybr="913.63" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="14.png" width="1837" height="1083">
+    <box label="Pavement" source="manual" occluded="0" xtl="997.80" ytl="714.03" xbr="1286.20" ybr="836.76" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="726.22" ytl="650.01" xbr="881.10" ybr="812.00" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="871.55" ytl="564.42" xbr="951.28" ybr="595.13" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="15.png" width="1847" height="1085">
+    <box label="Pavement" source="manual" occluded="0" xtl="1008.89" ytl="708.83" xbr="1297.29" ybr="831.56" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="880.32" ytl="570.22" xbr="960.05" ybr="600.93" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="730.01" ytl="645.57" xbr="885.00" ybr="803.90" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="16.png" width="1748" height="1092">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="899.40" ytl="691.70" xbr="995.33" ybr="759.52" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="933.72" ytl="767.64" xbr="1222.12" ybr="890.37" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="833.18" ytl="649.76" xbr="912.91" ybr="680.46" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="17.png" width="1738" height="1091">
+    <box label="Pavement" source="manual" occluded="0" xtl="935.19" ytl="774.02" xbr="1223.59" ybr="896.75" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="886.72" ytl="682.47" xbr="1009.30" ybr="770.30" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="817.71" ytl="650.58" xbr="897.44" ybr="681.28" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="18.png" width="1741" height="1084">
+    <box label="Pavement" source="manual" occluded="0" xtl="821.65" ytl="643.94" xbr="901.38" ybr="674.65" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="892.06" ytl="671.73" xbr="1000.30" ybr="769.80" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="936.76" ytl="774.81" xbr="1225.16" ybr="897.54" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="19.png" width="1736" height="1090">
+    <box label="Pavement" source="manual" occluded="0" xtl="937.80" ytl="775.63" xbr="1203.40" ybr="872.70" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="836.70" ytl="652.34" xbr="916.42" ybr="683.05" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="412.90" ytl="732.70" xbr="601.10" ybr="893.70" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="2.png" width="1377" height="914">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="393.69" ytl="572.23" xbr="590.10" ybr="744.50" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="117.21" ytl="569.50" xbr="341.80" ybr="613.30" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="20.png" width="1729" height="1082">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="420.50" ytl="720.47" xbr="607.00" ybr="884.56" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="828.89" ytl="643.67" xbr="908.61" ybr="674.37" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="943.59" ytl="779.88" xbr="1203.70" ybr="862.90" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="21.png" width="1741" height="1084">
+    <box label="Pavement" source="manual" occluded="0" xtl="837.73" ytl="642.05" xbr="917.46" ybr="672.75" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="401.26" ytl="728.59" xbr="587.76" ybr="892.68" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="942.44" ytl="771.97" xbr="1216.60" ybr="866.30" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="22.png" width="1737" height="1087">
+    <box label="Pavement" source="manual" occluded="0" xtl="829.57" ytl="646.69" xbr="909.30" ybr="677.40" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="928.71" ytl="775.70" xbr="1201.00" ybr="870.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="278.70" ytl="793.90" xbr="544.84" ybr="978.87" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="23.png" width="1688" height="958">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="995.15" ytl="436.67" xbr="1151.80" ybr="583.20" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="297.70" ytl="670.07" xbr="582.80" ybr="863.90" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="780.89" ytl="435.19" xbr="927.20" ybr="472.70" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="24.png" width="1680" height="968">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="980.60" ytl="430.37" xbr="1144.50" ybr="577.30" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="771.91" ytl="443.28" xbr="918.22" ybr="480.79" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="299.06" ytl="685.82" xbr="553.15" ybr="880.21" rotation="325.10" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="25.png" width="1693" height="967">
+    <box label="Pavement" source="manual" occluded="0" xtl="312.32" ytl="684.59" xbr="566.41" ybr="878.98" rotation="325.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="374.64" ytl="508.73" xbr="510.80" ybr="588.20" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="789.80" ytl="433.95" xbr="936.11" ybr="471.46" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="26.png" width="1660" height="963">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="331.39" ytl="504.56" xbr="493.30" ybr="593.70" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="750.96" ytl="435.44" xbr="897.27" ybr="472.94" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="280.28" ytl="688.08" xbr="534.37" ybr="882.46" rotation="325.10" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="27.png" width="1692" height="966">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="669.10" ytl="527.07" xbr="828.20" ybr="613.40" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="299.83" ytl="686.73" xbr="553.93" ybr="881.11" rotation="325.10" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="780.43" ytl="434.74" xbr="926.74" ybr="472.25" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="28.png" width="1662" height="630">
+    <box label="Pavement" source="manual" occluded="0" xtl="849.59" ytl="265.92" xbr="995.90" ybr="303.42" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="61.67" ytl="333.59" xbr="399.33" ybr="431.37" rotation="342.00" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="788.11" ytl="382.61" xbr="1042.21" ybr="556.74" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="411.28" ytl="369.99" xbr="665.38" ybr="467.76" rotation="325.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="1096.75" ytl="242.99" xbr="1197.60" ybr="308.90" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="505.36" ytl="241.65" xbr="651.67" ybr="279.16" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="29.png" width="1695" height="634">
+    <box label="Pavement" source="manual" occluded="0" xtl="88.28" ytl="335.38" xbr="425.94" ybr="433.16" rotation="342.00" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="536.57" ytl="247.21" xbr="682.88" ybr="284.72" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="893.81" ytl="267.31" xbr="1040.12" ybr="304.82" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="809.77" ytl="380.72" xbr="1063.86" ybr="554.85" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="425.45" ytl="374.82" xbr="679.54" ybr="472.60" rotation="325.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="1123.88" ytl="278.64" xbr="1237.70" ybr="351.50" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="3.png" width="1352" height="896">
+    <box label="Pavement" source="manual" occluded="0" xtl="118.91" ytl="536.66" xbr="327.81" ybr="608.36" rotation="8.70" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="625.02" ytl="457.16" xbr="735.60" ybr="520.90" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="677.41" ytl="542.38" xbr="847.40" ybr="660.90" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="30.png" width="1675" height="640">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="1100.64" ytl="261.14" xbr="1198.70" ybr="325.40" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="73.79" ytl="335.30" xbr="411.44" ybr="433.08" rotation="342.00" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="418.93" ytl="378.09" xbr="673.02" ybr="475.87" rotation="325.10" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="522.49" ytl="250.81" xbr="668.80" ybr="288.32" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="871.71" ytl="272.97" xbr="1018.02" ybr="310.48" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="31.png" width="1664" height="636">
+    <box label="Pavement" source="manual" occluded="0" xtl="857.53" ytl="264.33" xbr="1003.84" ybr="301.83" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="515.16" ytl="242.31" xbr="661.48" ybr="279.82" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="789.21" ytl="380.47" xbr="1043.30" ybr="554.60" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="405.10" ytl="361.72" xbr="659.19" ybr="459.50" rotation="325.10" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="55.87" ytl="332.88" xbr="393.53" ybr="430.66" rotation="342.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="725.50" ytl="239.94" xbr="811.80" ybr="293.60" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="32.png" width="1694" height="632">
+    <box label="Pavement" source="manual" occluded="0" xtl="426.86" ytl="355.59" xbr="680.95" ybr="453.37" rotation="325.10" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="824.28" ytl="382.73" xbr="1078.38" ybr="556.85" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="887.45" ytl="269.43" xbr="1033.76" ybr="306.93" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="764.15" ytl="232.03" xbr="864.92" ybr="297.97" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="540.46" ytl="242.38" xbr="686.77" ybr="279.89" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="87.30" ytl="326.84" xbr="424.96" ybr="424.62" rotation="342.00" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="4.png" width="1697" height="890">
+    <box label="Pavement" source="manual" occluded="0" xtl="1063.86" ytl="429.35" xbr="1210.17" ybr="466.86" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="1006.63" ytl="510.66" xbr="1230.85" ybr="697.00" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="5.png" width="1695" height="899">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="984.46" ytl="504.20" xbr="1234.53" ybr="690.54" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="1050.08" ytl="428.78" xbr="1196.40" ybr="466.29" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="6.png" width="1693" height="862">
+    <box label="Pavement" source="manual" occluded="0" xtl="959.09" ytl="558.99" xbr="1276.90" ybr="678.40" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="891.77" ytl="347.87" xbr="993.50" ybr="428.40" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="1048.69" ytl="395.25" xbr="1195.00" ybr="432.76" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="7.png" width="1691" height="858">
+    <box label="Pavement" source="manual" occluded="0" xtl="1046.59" ytl="396.36" xbr="1192.90" ybr="433.87" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="723.20" ytl="425.30" xbr="909.98" ybr="553.03" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="937.00" ytl="559.91" xbr="1270.00" ybr="684.60" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="8.png" width="1683" height="862">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="717.60" ytl="412.30" xbr="923.15" ybr="561.79" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="931.50" ytl="561.20" xbr="1279.70" ybr="677.80" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="1051.28" ytl="392.28" xbr="1197.59" ybr="429.79" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="9.png" width="1683" height="886">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="723.00" ytl="451.90" xbr="909.71" ybr="586.43" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="1047.83" ytl="418.83" xbr="1194.14" ybr="456.34" z_order="0">
+    </box>
+    <box label="Pavement" source="manual" occluded="0" xtl="946.50" ytl="588.92" xbr="1281.50" ybr="719.20" z_order="0">
+    </box>
+  </image>
+</annotations>

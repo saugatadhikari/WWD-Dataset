@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>2056219</id>
+      <name>Double_solid_yellow</name>
+      <size>118</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-02-27 23:43:02.343371+00:00</created>
+      <updated>2026-03-12 22:25:27.101181+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>117</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3679398</id>
+          <start>0</start>
+          <stop>117</stop>
+          <url>https://app.cvat.ai/api/tasks/2056219/dataset/export/api/jobs/3679835</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>th594</username>
+        <email>lltthh1997@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>WWD Vehicle</name>
+          <color>#cc9933</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Doubleyellowlane</name>
+          <color>#83e070</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-04-02 01:06:06.742271+00:00</dumped>
+  </meta>
+  <image id="1" name="10.png" width="1064" height="693">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="270.09" ytl="503.65" xbr="343.21" ybr="554.00" rotation="343.40" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="142.25" ytl="547.59" xbr="534.13" ybr="568.10" rotation="138.60" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="100.png" width="1600" height="982">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="891.75" ytl="786.12" xbr="1640.63" ybr="806.63" rotation="24.50" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="966.23" ytl="712.85" xbr="1107.59" ybr="818.54" rotation="357.50" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="101.png" width="1593" height="1012">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="952.62" ytl="734.70" xbr="1093.98" ybr="840.40" rotation="343.40" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="880.27" ytl="813.57" xbr="1629.14" ybr="834.08" rotation="24.50" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="11.png" width="1062" height="690">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="266.23" ytl="490.74" xbr="347.03" ybr="547.64" rotation="3.80" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="-62.03" ytl="637.01" xbr="535.52" ybr="657.52" rotation="139.30" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="110.png" width="1666" height="907">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="78.15" ytl="688.26" xbr="675.70" ybr="708.77" rotation="156.80" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="728.83" ytl="633.50" xbr="893.13" ybr="791.00" rotation="3.80" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="111.png" width="1659" height="884">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="156.28" ytl="632.61" xbr="753.82" ybr="653.12" rotation="156.80" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="714.99" ytl="612.27" xbr="879.30" ybr="769.77" rotation="3.80" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="112.png" width="1668" height="908">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="141.90" ytl="656.48" xbr="739.45" ybr="676.99" rotation="158.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="719.36" ytl="639.22" xbr="897.22" ybr="789.60" rotation="3.80" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="113.png" width="1658" height="879">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="141.48" ytl="625.87" xbr="739.02" ybr="646.38" rotation="158.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="934.62" ytl="592.12" xbr="1073.25" ybr="715.92" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="114.png" width="1661" height="889">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="123.75" ytl="651.96" xbr="721.29" ybr="672.47" rotation="158.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="929.59" ytl="603.24" xbr="1069.60" ybr="753.62" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="115.png" width="1662" height="883">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="929.27" ytl="591.69" xbr="1063.33" ybr="742.06" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="116.75" ytl="643.03" xbr="714.29" ybr="663.54" rotation="158.00" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="116.png" width="1666" height="907">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="94.63" ytl="674.52" xbr="692.18" ybr="695.03" rotation="158.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="564.26" ytl="594.89" xbr="708.80" ybr="696.87" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="117.png" width="1670" height="907">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="569.56" ytl="603.57" xbr="697.44" ybr="690.90" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="146.08" ytl="657.13" xbr="743.63" ybr="677.64" rotation="158.00" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="118.png" width="1661" height="878">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="167.80" ytl="619.39" xbr="765.34" ybr="639.90" rotation="158.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="565.44" ytl="560.03" xbr="699.18" ybr="669.14" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="12.png" width="1065" height="684">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="263.24" ytl="503.54" xbr="341.72" ybr="553.48" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="82.05" ytl="570.21" xbr="549.31" ybr="590.72" rotation="141.10" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="13.png" width="1062" height="687">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="236.22" ytl="483.08" xbr="358.90" ybr="557.04" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="119.78" ytl="532.70" xbr="587.03" ybr="553.21" rotation="141.10" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="14.png" width="1062" height="690">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="254.47" ytl="500.64" xbr="344.24" ybr="559.39" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="104.37" ytl="550.75" xbr="571.62" ybr="571.26" rotation="141.10" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="15.png" width="1069" height="683">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="141.90" ytl="519.20" xbr="609.15" ybr="539.71" rotation="141.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="264.93" ytl="493.33" xbr="345.45" ybr="548.32" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="16.png" width="1066" height="695">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="121.81" ytl="541.13" xbr="589.07" ybr="561.64" rotation="141.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="255.86" ytl="497.90" xbr="354.66" ybr="557.86" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="17.png" width="1066" height="685">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="118.83" ytl="538.04" xbr="586.09" ybr="558.55" rotation="141.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="274.22" ytl="500.10" xbr="344.25" ybr="550.79" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="18.png" width="1061" height="690">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="244.80" ytl="484.38" xbr="343.77" ybr="552.65" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="124.77" ytl="528.29" xbr="592.02" ybr="556.55" rotation="137.80" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="19.png" width="1066" height="703">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="245.04" ytl="506.62" xbr="343.21" ybr="560.58" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="118.35" ytl="543.93" xbr="585.60" ybr="564.44" rotation="141.10" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="20.png" width="1651" height="1112">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="447.81" ytl="579.86" xbr="531.75" ybr="654.62" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="515.67" ytl="640.13" xbr="643.69" ybr="660.64" rotation="106.30" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="21.png" width="1667" height="1055">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="437.66" ytl="572.03" xbr="540.11" ybr="653.55" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="506.88" ytl="623.30" xbr="634.90" ybr="643.81" rotation="106.30" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="22.png" width="1689" height="1082">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="608.08" ytl="588.24" xbr="700.70" ybr="673.00" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="515.53" ytl="596.36" xbr="643.55" ybr="616.87" rotation="106.30" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="23.png" width="1687" height="1043">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="607.16" ytl="588.00" xbr="703.78" ybr="676.29" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="513.55" ytl="593.97" xbr="641.57" ybr="614.48" rotation="114.30" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="24.png" width="1440" height="971">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="452.16" ytl="613.57" xbr="600.46" ybr="745.76" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="457.97" ytl="739.35" xbr="950.25" ybr="781.33" rotation="57.30" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="27.png" width="1389" height="954">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="811.53" ytl="629.05" xbr="1145.62" ybr="835.61" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="408.35" ytl="718.06" xbr="900.62" ybr="760.04" rotation="60.30" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="28.png" width="1386" height="974">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="818.25" ytl="612.43" xbr="1151.82" ybr="838.61" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="414.37" ytl="748.30" xbr="906.64" ybr="790.28" rotation="59.90" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="29.png" width="1427" height="978">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="847.06" ytl="667.66" xbr="1178.25" ybr="894.97" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="437.55" ytl="759.10" xbr="929.82" ybr="804.11" rotation="61.60" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="3.png" width="1064" height="690">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="160.06" ytl="558.95" xbr="479.49" ybr="595.00" rotation="139.20" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="417.32" ytl="477.53" xbr="537.96" ybr="601.27" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="30.png" width="1443" height="950">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="426.88" ytl="730.30" xbr="919.15" ybr="772.28" rotation="58.80" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="1011.28" ytl="609.25" xbr="1365.83" ybr="816.59" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="31.png" width="1314" height="893">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="541.28" ytl="540.73" xbr="602.20" ybr="593.12" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="499.18" ytl="699.20" xbr="991.45" ybr="741.18" rotation="52.40" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="32.png" width="1366" height="907">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="722.51" ytl="759.33" xbr="1092.76" ybr="813.86" rotation="54.40" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="647.99" ytl="542.73" xbr="719.80" ybr="615.33" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="33.png" width="1360" height="895">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="699.53" ytl="737.73" xbr="1056.81" ybr="779.71" rotation="53.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="912.72" ytl="662.88" xbr="1090.57" ybr="813.26" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="34.png" width="1324" height="883">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="576.29" ytl="724.12" xbr="1068.56" ybr="766.10" rotation="52.90" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="857.42" ytl="660.12" xbr="1035.27" ybr="810.49" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="35.png" width="1297" height="877">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="684.56" ytl="745.48" xbr="1032.60" ybr="787.46" rotation="50.50" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="862.07" ytl="638.03" xbr="1050.26" ybr="795.13" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="36.png" width="1549" height="999">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="-34.39" ytl="707.15" xbr="457.88" ybr="730.62" rotation="151.70" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="264.93" ytl="591.18" xbr="370.17" ybr="639.90" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="37.png" width="1567" height="1010">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="-17.92" ytl="708.49" xbr="474.35" ybr="731.96" rotation="151.70" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="237.52" ytl="576.53" xbr="384.10" ybr="658.93" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="38.png" width="1831" height="1094">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="625.75" ytl="587.39" xbr="693.69" ybr="635.95" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="-36.43" ytl="763.48" xbr="648.96" ybr="786.95" rotation="151.70" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="39.png" width="1824" height="1118">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="-42.54" ytl="764.05" xbr="642.85" ybr="787.53" rotation="151.70" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="608.40" ytl="606.21" xbr="682.69" ybr="658.68" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="4.png" width="1062" height="687">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="429.30" ytl="482.46" xbr="548.05" ybr="593.72" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="136.79" ytl="572.26" xbr="486.11" ybr="595.73" rotation="139.00" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="40.png" width="1837" height="1117">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="594.15" ytl="586.91" xbr="672.11" ybr="636.29" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="-76.65" ytl="788.73" xbr="608.74" ybr="812.21" rotation="151.70" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="41.png" width="1826" height="1151">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="-51.46" ytl="797.99" xbr="633.93" ybr="821.47" rotation="151.70" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="488.40" ytl="704.35" xbr="620.46" ybr="816.38" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="42.png" width="1574" height="964">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="651.77" ytl="582.86" xbr="798.49" ybr="712.20" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="609.66" ytl="686.72" xbr="1295.04" ybr="737.02" rotation="48.60" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="43.png" width="1548" height="963">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="591.68" ytl="708.72" xbr="1277.07" ybr="759.01" rotation="48.60" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="656.96" ytl="599.63" xbr="786.96" ybr="715.43" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="44.png" width="1565" height="963">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="636.13" ytl="596.60" xbr="821.88" ybr="772.95" rotation="2.30" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="583.17" ytl="679.55" xbr="1268.56" ybr="729.84" rotation="48.60" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="45.png" width="1564" height="970">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="353.18" ytl="552.05" xbr="562.68" ybr="702.43" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="586.16" ytl="686.14" xbr="1271.55" ybr="736.43" rotation="48.60" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="46.png" width="1568" height="969">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="593.88" ytl="692.75" xbr="1279.27" ybr="743.04" rotation="48.60" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="915.14" ytl="564.20" xbr="1064.62" ybr="674.94" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="47.png" width="1555" height="968">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="578.92" ytl="688.58" xbr="1264.30" ybr="738.88" rotation="48.60" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="906.47" ytl="568.35" xbr="1040.34" ybr="659.75" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="48.png" width="1561" height="975">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="897.30" ytl="548.38" xbr="1049.62" ybr="680.16" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="587.88" ytl="687.35" xbr="1273.27" ybr="737.64" rotation="48.60" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="49.png" width="1275" height="1008">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="384.45" ytl="774.82" xbr="892.79" ybr="834.66" rotation="56.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="257.49" ytl="586.36" xbr="484.15" ybr="799.32" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="5.png" width="1065" height="687">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="421.30" ytl="476.20" xbr="540.31" ybr="609.70" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="127.56" ytl="567.87" xbr="502.91" ybr="592.70" rotation="139.20" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="50.png" width="1268" height="972">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="247.45" ytl="563.60" xbr="477.76" ybr="745.15" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="365.06" ytl="714.24" xbr="873.41" ybr="774.08" rotation="56.10" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="51.png" width="1262" height="975">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="652.31" ytl="590.05" xbr="906.92" ybr="782.73" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="369.89" ytl="730.81" xbr="878.24" ybr="790.65" rotation="56.10" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="52.png" width="1267" height="984">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="643.91" ytl="584.07" xbr="887.23" ybr="796.50" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="280.32" ytl="694.00" xbr="906.94" ybr="761.52" rotation="56.10" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="53.png" width="1624" height="955">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="250.21" ytl="731.60" xbr="758.55" ybr="791.43" rotation="125.50" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="664.38" ytl="542.03" xbr="827.71" ybr="736.64" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="54.png" width="1616" height="975">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="239.76" ytl="745.58" xbr="748.11" ybr="805.41" rotation="125.50" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="382.38" ytl="622.98" xbr="506.04" ybr="694.72" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="55.png" width="1626" height="980">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="496.35" ytl="547.53" xbr="595.22" ybr="613.65" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="272.86" ytl="731.12" xbr="781.20" ybr="783.61" rotation="125.50" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="56.png" width="1624" height="953">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="351.63" ytl="568.31" xbr="529.48" ybr="718.69" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="245.08" ytl="711.72" xbr="753.42" ybr="771.56" rotation="125.50" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="57.png" width="1635" height="972">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="366.90" ytl="570.83" xbr="544.75" ybr="721.21" rotation="357.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="503.38" ytl="520.66" xbr="610.42" ybr="594.74" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="256.61" ytl="714.24" xbr="764.95" ybr="774.08" rotation="125.50" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="58.png" width="1388" height="975">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="563.42" ytl="531.01" xbr="746.01" ybr="557.44" rotation="102.20" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="686.20" ytl="551.98" xbr="812.97" ybr="680.11" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="59.png" width="1382" height="991">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="508.23" ytl="556.90" xbr="610.55" ybr="636.36" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="565.64" ytl="543.88" xbr="748.23" ybr="570.31" rotation="102.20" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="6.png" width="1070" height="692">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="204.48" ytl="530.17" xbr="527.97" ybr="556.60" rotation="140.20" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="428.33" ytl="484.85" xbr="543.76" ybr="596.40" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="60.png" width="1388" height="982">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="560.32" ytl="523.59" xbr="738.25" ybr="550.03" rotation="97.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="484.94" ytl="529.13" xbr="615.49" ybr="634.42" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="61.png" width="1384" height="997">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="561.72" ytl="555.30" xbr="739.65" ybr="581.74" rotation="97.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="502.80" ytl="556.55" xbr="610.33" ybr="642.92" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="62.png" width="1677" height="966">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="1111.47" ytl="598.03" xbr="1253.04" ybr="693.85" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="877.64" ytl="720.27" xbr="1469.89" ybr="750.19" rotation="39.00" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="63.png" width="1677" height="972">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="881.39" ytl="725.27" xbr="1473.64" ybr="755.19" rotation="39.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="1103.90" ytl="594.90" xbr="1252.71" ybr="681.71" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="64.png" width="1679" height="971">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="865.38" ytl="707.35" xbr="1457.62" ybr="737.28" rotation="39.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="1118.74" ytl="592.07" xbr="1265.01" ybr="706.52" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="65.png" width="1686" height="968">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="892.80" ytl="725.16" xbr="1485.05" ybr="755.08" rotation="39.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="921.38" ytl="634.90" xbr="1050.85" ybr="754.44" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="66.png" width="1672" height="963">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="926.54" ytl="624.83" xbr="1021.47" ybr="720.43" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="908.32" ytl="742.24" xbr="1500.57" ybr="772.16" rotation="39.00" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="67.png" width="1670" height="967">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="902.99" ytl="746.36" xbr="1495.24" ybr="776.28" rotation="39.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="939.05" ytl="664.50" xbr="1047.14" ybr="763.40" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="68.png" width="1667" height="972">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="918.39" ytl="655.80" xbr="1036.10" ybr="753.05" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="889.15" ytl="739.99" xbr="1481.39" ybr="769.92" rotation="39.00" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="69.png" width="1076" height="976">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="-42.41" ytl="671.62" xbr="663.47" ybr="735.66" rotation="126.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="512.11" ytl="462.92" xbr="659.12" ybr="613.30" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="7.png" width="1064" height="708">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="67.93" ytl="591.16" xbr="533.28" ybr="619.32" rotation="140.20" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="293.89" ytl="496.45" xbr="378.29" ybr="541.13" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="70.png" width="1438" height="1003">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="569.97" ytl="402.69" xbr="625.86" ybr="457.65" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="-46.14" ytl="703.98" xbr="659.74" ybr="768.01" rotation="126.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="514.73" ytl="476.57" xbr="649.75" ybr="631.88" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="71.png" width="1432" height="896">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="0.26" ytl="640.38" xbr="706.14" ybr="704.42" rotation="126.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="519.08" ytl="466.23" xbr="654.10" ybr="603.59" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="72.png" width="1446" height="976">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="-26.12" ytl="666.92" xbr="679.76" ybr="730.95" rotation="126.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="330.57" ytl="472.17" xbr="425.57" ybr="544.35" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="73.png" width="1433" height="978">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="-39.85" ytl="666.38" xbr="666.03" ybr="730.41" rotation="126.00" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="311.45" ytl="446.81" xbr="438.12" ybr="533.34" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="74.png" width="1440" height="980">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="314.44" ytl="468.99" xbr="427.95" ybr="540.78" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="-37.76" ytl="686.56" xbr="668.12" ybr="738.35" rotation="127.50" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="75.png" width="1641" height="977">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="899.32" ytl="594.84" xbr="1014.78" ybr="684.15" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="669.17" ytl="757.33" xbr="1220.71" ybr="809.12" rotation="51.50" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="76.png" width="1630" height="978">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="666.56" ytl="757.42" xbr="1218.10" ybr="809.21" rotation="51.50" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="888.37" ytl="583.49" xbr="1017.99" ybr="679.98" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="77.png" width="1642" height="1003">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="890.62" ytl="596.95" xbr="1022.65" ybr="708.89" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="671.30" ytl="779.63" xbr="1222.83" ybr="840.58" rotation="51.50" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="78.png" width="1640" height="981">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="875.78" ytl="574.94" xbr="1030.56" ybr="691.41" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="670.96" ytl="754.37" xbr="1222.50" ybr="806.16" rotation="51.50" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="79.png" width="1636" height="967">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="654.70" ytl="552.15" xbr="765.49" ybr="657.12" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="671.06" ytl="743.23" xbr="1222.59" ybr="795.03" rotation="51.50" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="8.png" width="1058" height="696">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="146.24" ytl="560.83" xbr="498.43" ybr="591.08" rotation="139.40" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="252.79" ytl="502.13" xbr="342.06" ybr="553.71" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="80.png" width="1639" height="998">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="668.12" ytl="774.44" xbr="1219.66" ybr="826.23" rotation="51.50" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="648.10" ytl="581.70" xbr="762.08" ybr="678.45" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="81.png" width="1643" height="979">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="672.70" ytl="742.89" xbr="1224.23" ybr="794.69" rotation="51.50" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="645.01" ytl="559.46" xbr="773.57" ybr="667.77" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="82.png" width="1634" height="973">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="641.08" ytl="684.55" xbr="834.68" ybr="854.39" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="668.89" ytl="748.01" xbr="1220.43" ybr="799.80" rotation="51.50" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="83.png" width="1639" height="980">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="666.87" ytl="755.06" xbr="1218.41" ybr="806.85" rotation="51.50" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="641.47" ytl="699.35" xbr="819.33" ybr="849.73" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="84.png" width="1314" height="972">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="341.55" ytl="692.76" xbr="893.09" ybr="735.84" rotation="55.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="249.18" ytl="561.37" xbr="497.50" ybr="787.60" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="85.png" width="1308" height="969">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="367.05" ytl="711.16" xbr="918.59" ybr="765.27" rotation="55.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="249.01" ytl="565.64" xbr="497.34" ybr="791.87" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="86.png" width="1308" height="973">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="357.56" ytl="707.17" xbr="909.09" ybr="750.26" rotation="55.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="245.89" ytl="565.50" xbr="494.21" ybr="791.73" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="87.png" width="1315" height="1003">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="249.24" ytl="598.58" xbr="497.56" ybr="824.80" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="327.51" ytl="708.38" xbr="879.04" ybr="751.46" rotation="55.10" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="88.png" width="1319" height="999">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="331.74" ytl="692.35" xbr="883.28" ybr="735.43" rotation="55.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="252.38" ytl="587.67" xbr="500.70" ybr="813.90" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="89.png" width="1301" height="965">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="354.71" ytl="711.90" xbr="906.25" ybr="754.98" rotation="55.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="242.76" ytl="561.72" xbr="491.08" ybr="787.95" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="9.png" width="1062" height="684">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="122.14" ytl="569.12" xbr="489.04" ybr="595.54" rotation="140.90" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="271.00" ytl="503.68" xbr="340.66" ybr="539.03" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="90.png" width="1574" height="977">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="427.84" ytl="500.28" xbr="550.27" ybr="613.95" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="-26.70" ytl="707.51" xbr="529.65" ybr="787.58" rotation="118.70" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="91.png" width="1579" height="975">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="429.52" ytl="496.81" xbr="551.95" ybr="610.48" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="-19.80" ytl="684.27" xbr="536.56" ybr="764.34" rotation="118.70" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="92.png" width="1702" height="1054">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="432.84" ytl="583.76" xbr="631.37" ybr="793.28" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="2.39" ytl="762.64" xbr="558.75" ybr="842.72" rotation="118.70" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="93.png" width="1768" height="1125">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="21.95" ytl="810.47" xbr="578.31" ybr="890.54" rotation="118.70" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="166.52" ytl="653.17" xbr="315.62" ybr="761.61" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="94.png" width="1759" height="1133">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="155.73" ytl="655.91" xbr="304.83" ybr="764.35" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="44.76" ytl="773.05" xbr="601.11" ybr="853.12" rotation="118.70" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="95.png" width="1767" height="1125">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="58.37" ytl="760.49" xbr="614.72" ybr="840.56" rotation="118.70" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="166.58" ytl="658.84" xbr="315.69" ybr="767.29" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="96.png" width="1592" height="980">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="745.12" ytl="706.94" xbr="894.22" ybr="814.30" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="885.94" ytl="739.07" xbr="1442.29" ybr="753.40" rotation="25.10" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="97.png" width="1589" height="1003">
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="746.74" ytl="737.47" xbr="895.84" ybr="845.91" rotation="357.10" z_order="0">
+    </box>
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="928.93" ytl="789.59" xbr="1485.29" ybr="803.92" rotation="25.10" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="98.png" width="1589" height="982">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="900.46" ytl="754.56" xbr="1456.82" ybr="768.89" rotation="25.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="738.52" ytl="699.56" xbr="887.62" ybr="818.89" rotation="357.10" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="99.png" width="1595" height="980">
+    <box label="Doubleyellowlane" source="manual" occluded="0" xtl="857.17" ytl="732.23" xbr="1413.52" ybr="746.56" rotation="25.10" z_order="0">
+    </box>
+    <box label="WWD Vehicle" source="manual" occluded="0" xtl="956.94" ytl="719.95" xbr="1106.05" ybr="828.40" rotation="357.10" z_order="0">
+    </box>
+  </image>
+</annotations>

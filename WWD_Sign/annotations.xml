@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>2095545</id>
+      <name>WWD_Sign</name>
+      <size>19</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-03-13 20:59:49.998930+00:00</created>
+      <updated>2026-03-13 21:07:00.683350+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>18</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3728420</id>
+          <start>0</start>
+          <stop>18</stop>
+          <url>https://app.cvat.ai/api/tasks/2095545/dataset/export/api/jobs/3729118</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>lltthh19972</username>
+        <email>lltthh1997@outlook.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>WWD_Sign</name>
+          <color>#51bcc0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>WWD_Vehicle</name>
+          <color>#d78d2b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-04-15 03:02:04.424934+00:00</dumped>
+  </meta>
+  <image id="0" name="1.png" width="1074" height="697">
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="482.29" ytl="401.39" xbr="560.75" ybr="474.38" z_order="0">
+    </box>
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="938.44" ytl="353.35" xbr="1009.60" ybr="408.69" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="10.png" width="1075" height="693">
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="939.43" ytl="353.30" xbr="1010.59" ybr="408.64" z_order="0">
+    </box>
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="463.42" ytl="389.46" xbr="557.15" ybr="471.70" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="11.png" width="1077" height="694">
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="939.85" ytl="355.36" xbr="1011.01" ybr="410.70" z_order="0">
+    </box>
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="463.13" ytl="399.37" xbr="573.96" ybr="490.81" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="12.png" width="1075" height="693">
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="470.07" ytl="394.30" xbr="578.31" ybr="484.40" z_order="0">
+    </box>
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="934.59" ytl="352.08" xbr="1005.75" ybr="407.43" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="13.png" width="1077" height="696">
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="451.97" ytl="394.45" xbr="571.00" ybr="490.41" z_order="0">
+    </box>
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="939.29" ytl="357.07" xbr="1010.45" ybr="412.42" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="14.png" width="1075" height="692">
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="939.40" ytl="357.88" xbr="1010.56" ybr="413.23" z_order="0">
+    </box>
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="470.18" ytl="406.06" xbr="559.55" ybr="475.50" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="15.png" width="1076" height="691">
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="938.97" ytl="354.61" xbr="1010.13" ybr="409.95" z_order="0">
+    </box>
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="469.85" ytl="399.18" xbr="556.67" ybr="468.52" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="16.png" width="1071" height="696">
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="936.29" ytl="358.29" xbr="1007.45" ybr="413.63" z_order="0">
+    </box>
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="456.22" ytl="408.42" xbr="532.74" ybr="469.15" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="17.png" width="1072" height="692">
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="934.58" ytl="356.07" xbr="1005.74" ybr="411.41" z_order="0">
+    </box>
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="458.71" ytl="393.38" xbr="559.55" ybr="485.16" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="18.png" width="1073" height="697">
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="480.22" ytl="345.44" xbr="537.39" ybr="398.96" z_order="0">
+    </box>
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="934.55" ytl="350.31" xbr="1003.88" ybr="419.64" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="19.png" width="1072" height="688">
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="936.43" ytl="350.91" xbr="1006.67" ybr="408.54" z_order="0">
+    </box>
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="465.75" ytl="376.12" xbr="577.42" ybr="478.18" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="2.png" width="1075" height="700">
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="937.26" ytl="352.77" xbr="1009.95" ybr="415.07" z_order="0">
+    </box>
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="462.65" ytl="396.13" xbr="578.10" ybr="484.70" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="3.png" width="1075" height="696">
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="456.40" ytl="410.85" xbr="545.68" ybr="476.44" z_order="0">
+    </box>
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="939.23" ytl="355.58" xbr="1016.36" ybr="416.32" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="4.png" width="1072" height="693">
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="937.51" ytl="351.36" xbr="1006.45" ybr="411.83" z_order="0">
+    </box>
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="459.18" ytl="392.48" xbr="565.01" ybr="474.72" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="5.png" width="1072" height="688">
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="477.16" ytl="353.91" xbr="523.39" ybr="389.33" z_order="0">
+    </box>
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="932.23" ytl="346.11" xbr="1015.67" ybr="407.94" z_order="0">
+    </box>
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="466.36" ytl="395.93" xbr="562.41" ybr="491.39" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="6.png" width="1074" height="690">
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="479.77" ytl="355.56" xbr="536.97" ybr="412.16" z_order="0">
+    </box>
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="934.35" ytl="349.54" xbr="1007.21" ybr="410.95" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="7.png" width="1070" height="691">
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="933.59" ytl="352.15" xbr="1004.14" ybr="413.05" z_order="0">
+    </box>
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="461.47" ytl="413.65" xbr="556.13" ybr="489.62" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="8.png" width="1077" height="702">
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="938.19" ytl="355.58" xbr="1012.92" ybr="413.77" z_order="0">
+    </box>
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="469.57" ytl="396.62" xbr="546.14" ybr="461.55" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="9.png" width="1075" height="692">
+    <box label="WWD_Sign" source="manual" occluded="0" xtl="938.16" ytl="355.33" xbr="1005.19" ybr="411.49" z_order="0">
+    </box>
+    <box label="WWD_Vehicle" source="manual" occluded="0" xtl="492.53" ytl="378.88" xbr="543.85" ybr="417.53" z_order="0">
+    </box>
+  </image>
+</annotations>
